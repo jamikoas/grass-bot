@@ -1,4 +1,4 @@
-# grass-bot Grass Bot Auto Mining
+# grass-bot Grass Bot Auto Mining (MULTI AKUN)
 Donate and Support : 0xde260429ef7680c7a43e855b5fcf619948f34e2a
 
 ## Create Account Jika Belum Punya
