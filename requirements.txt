@@ -1,0 +1,7 @@
+requests==2.31.0
+websockets==10.3
+fake-useragent==1.2.0
+loguru==0.5.3
+schedule==1.1.0
+
+git+https://github.com/racinette/websockets_proxy.git
