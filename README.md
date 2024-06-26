@@ -11,7 +11,7 @@ Donate and Support : 0xde260429ef7680c7a43e855b5fcf619948f34e2a
 ## Install Python and Depensi
 
 ```
-sudo apt install python3 python3-pip && pip install -r requirements.txt
+sudo apt install python3 python3-pip
 ```
 
 ## Clone GitHub
@@ -19,6 +19,10 @@ sudo apt install python3 python3-pip && pip install -r requirements.txt
 ```
 git clone https://github.com/jamikoas/grass-bot.git
 cd grass-bot
+```
+
+```
+pip install -r requirements.txt
 ```
 
 ## Edit Users.txt
